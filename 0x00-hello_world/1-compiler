@@ -1,2 +1,2 @@
 #!/bin/bash
-Ggcc -E $SCFILE >> c
+Ggcc -c $SCFILE
