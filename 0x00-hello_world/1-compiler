@@ -1,2 +1,2 @@
 #!/bin/bash
-Ggcc -c $SCFILE
+gcc -c $CFILE.o
